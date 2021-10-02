@@ -1,0 +1,13 @@
+{
+  "radio": {
+    "stream": "YOU RADIO STATION LINK",
+    "volume": 50
+  },
+  
+
+  "discord": {
+    "token":"YOUR BOT TOKEN",
+
+    "channel": "YOUR VOICE CHANNEL ID"
+  }
+}
